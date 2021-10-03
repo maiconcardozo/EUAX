@@ -22,6 +22,7 @@ namespace Componente.EUAX.Teste
       Projeto.DataInicio = ProjetoObejeto.DataInicio;
       Projeto.DataFim = ProjetoObejeto.DataFim;
       Projeto.ListaAtividade = new List<Atividade>();
+      Projeto.Ativo = ProjetoObejeto.Ativo;
 
       //Simulando a tela, caso criamos a primeira atividade, automaticamente devemos colocar a data de inicio do projeto.
       //Então faço uma verificação se caso 
@@ -52,6 +53,15 @@ namespace Componente.EUAX.Teste
     [Test]
     public void TesteProjetoAlterar()
     {
+
+      Projeto Projeto = new();
+
+      List<Projeto> ProjetoPesquisa = new List<Projeto>();
+      ProjetoBLL.CarregaProjeto(Projeto, ProjetoPesquisa);
+
+      Projeto p = ProjetoPesquisa.FirstOrDefault();
+
+
 
     }
   }
