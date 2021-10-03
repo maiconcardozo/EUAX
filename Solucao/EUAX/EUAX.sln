@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31717.71
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Componente.EUAX.Entidade", "..\..\Componente.EUAX\Componente.EUAX.Entidade\Componente.EUAX.Entidade.csproj", "{81634B05-0AC4-43FC-9283-D7E8860CBEAB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Componente.EUAX.Acao", "..\..\Componente.EUAX\Componente.EUAX.Acao\Componente.EUAX.Acao.csproj", "{D3CC9F90-74A0-4594-91D0-0850A8A944B3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Componente.EUAX.Web", "..\..\Componente.EUAX\Componente.EUAX.Web\Componente.EUAX.Web.csproj", "{A2FE67BE-A005-4D8E-B93B-784ADBDEE909}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Componente.EUAX.Teste", "..\..\Componente.EUAX\Componente.EUAX.Teste\Componente.EUAX.Teste.csproj", "{254DF9F9-AA15-47AC-9094-026C9E44F9B9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{81634B05-0AC4-43FC-9283-D7E8860CBEAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81634B05-0AC4-43FC-9283-D7E8860CBEAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81634B05-0AC4-43FC-9283-D7E8860CBEAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81634B05-0AC4-43FC-9283-D7E8860CBEAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3CC9F90-74A0-4594-91D0-0850A8A944B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3CC9F90-74A0-4594-91D0-0850A8A944B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3CC9F90-74A0-4594-91D0-0850A8A944B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3CC9F90-74A0-4594-91D0-0850A8A944B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2FE67BE-A005-4D8E-B93B-784ADBDEE909}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2FE67BE-A005-4D8E-B93B-784ADBDEE909}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2FE67BE-A005-4D8E-B93B-784ADBDEE909}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2FE67BE-A005-4D8E-B93B-784ADBDEE909}.Release|Any CPU.Build.0 = Release|Any CPU
+		{254DF9F9-AA15-47AC-9094-026C9E44F9B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{254DF9F9-AA15-47AC-9094-026C9E44F9B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{254DF9F9-AA15-47AC-9094-026C9E44F9B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{254DF9F9-AA15-47AC-9094-026C9E44F9B9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8A41C9AD-E8D0-4867-B8AF-1746EF41571A}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 5
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://cmhaste.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = ..\\..\\Componente.EUAX\\Componente.EUAX.Acao\\Componente.EUAX.Acao.csproj
+		SccProjectName1 = ../../Componente.EUAX/Componente.EUAX.Acao
+		SccLocalPath1 = ..\\..\\Componente.EUAX\\Componente.EUAX\\Componente.EUAX.Acao
+		SccProjectUniqueName2 = ..\\..\\Componente.EUAX\\Componente.EUAX.Entidade\\Componente.EUAX.Entidade.csproj
+		SccProjectName2 = ../../Componente.EUAX/Componente.EUAX.Entidade
+		SccLocalPath2 = ..\\..\\Componente.EUAX\\Componente.EUAX.Entidade
+		SccProjectUniqueName3 = ..\\..\\Componente.EUAX\\Componente.EUAX.Web\\Componente.EUAX.Web.csproj
+		SccProjectName3 = ../../Componente.EUAX/Componente.EUAX.Web
+		SccLocalPath3 = ..\\..\\Componente.EUAX\\Componente.EUAX.Web
+		SccProjectUniqueName4 = ..\\..\\Componente.EUAX\\Componente.EUAX.Teste\\Componente.EUAX.Teste.csproj
+		SccProjectName4 = ../../Componente.EUAX/Componente.EUAX.Teste
+		SccLocalPath4 = ..\\..\\Componente.EUAX\\Componente.EUAX.Teste
+	EndGlobalSection
+EndGlobal
