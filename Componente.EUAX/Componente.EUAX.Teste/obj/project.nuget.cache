@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QP21dv19/85/BQtbl4PbrpKnR2qXe1kATVsZ8BYtsYjM+Agj8bg4ntO3lyAHJa4/JGxbQqUmRNozzFrA93x2DA==",
+  "dgSpecHash": "2JXGTQDu9JGKhyIEozF7x5k1RSfToaXzNsxAwJvc2weAHxWonOeo5aUIfmcG4A3tqCxaoG2ONog1nwgiBcyYKg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Maicon Cardozo\\Source\\Repos\\EUAX\\Componente.EUAX\\Componente.EUAX.Teste\\Componente.EUAX.Teste.csproj",
+  "projectFilePath": "C:\\Users\\Maicon Cardozo\\source\\repos\\EUAX\\Componente.EUAX\\Componente.EUAX.Teste\\Componente.EUAX.Teste.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Maicon Cardozo\\.nuget\\packages\\coverlet.collector\\3.0.3\\coverlet.collector.3.0.3.nupkg.sha512",
     "C:\\Users\\Maicon Cardozo\\.nuget\\packages\\microsoft.codecoverage\\16.10.0\\microsoft.codecoverage.16.10.0.nupkg.sha512",

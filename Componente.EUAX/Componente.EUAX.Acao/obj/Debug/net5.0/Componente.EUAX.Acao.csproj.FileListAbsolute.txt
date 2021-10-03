@@ -27,3 +27,18 @@ D:\Git\Componente.EUAX\Componente.EUAX.Acao\obj\Debug\net5.0\Componente.EUAX.Aca
 D:\Git\Componente.EUAX\Componente.EUAX.Acao\obj\Debug\net5.0\Componente.EUAX.Acao.dll
 D:\Git\Componente.EUAX\Componente.EUAX.Acao\obj\Debug\net5.0\ref\Componente.EUAX.Acao.dll
 D:\Git\Componente.EUAX\Componente.EUAX.Acao\obj\Debug\net5.0\Componente.EUAX.Acao.pdb
+C:\Users\Maicon Cardozo\Source\Repos\EUAX\Componente.EUAX\Componente.EUAX.Acao\bin\Debug\net5.0\Componente.EUAX.Acao.deps.json
+C:\Users\Maicon Cardozo\Source\Repos\EUAX\Componente.EUAX\Componente.EUAX.Acao\bin\Debug\net5.0\Componente.EUAX.Acao.dll
+C:\Users\Maicon Cardozo\Source\Repos\EUAX\Componente.EUAX\Componente.EUAX.Acao\bin\Debug\net5.0\ref\Componente.EUAX.Acao.dll
+C:\Users\Maicon Cardozo\Source\Repos\EUAX\Componente.EUAX\Componente.EUAX.Acao\bin\Debug\net5.0\Componente.EUAX.Acao.pdb
+C:\Users\Maicon Cardozo\Source\Repos\EUAX\Componente.EUAX\Componente.EUAX.Acao\bin\Debug\net5.0\Componente.EUAX.Entidade.dll
+C:\Users\Maicon Cardozo\Source\Repos\EUAX\Componente.EUAX\Componente.EUAX.Acao\bin\Debug\net5.0\Componente.EUAX.Entidade.pdb
+C:\Users\Maicon Cardozo\Source\Repos\EUAX\Componente.EUAX\Componente.EUAX.Acao\obj\Debug\net5.0\Componente.EUAX.Acao.csproj.AssemblyReference.cache
+C:\Users\Maicon Cardozo\Source\Repos\EUAX\Componente.EUAX\Componente.EUAX.Acao\obj\Debug\net5.0\Componente.EUAX.Acao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maicon Cardozo\Source\Repos\EUAX\Componente.EUAX\Componente.EUAX.Acao\obj\Debug\net5.0\Componente.EUAX.Acao.AssemblyInfoInputs.cache
+C:\Users\Maicon Cardozo\Source\Repos\EUAX\Componente.EUAX\Componente.EUAX.Acao\obj\Debug\net5.0\Componente.EUAX.Acao.AssemblyInfo.cs
+C:\Users\Maicon Cardozo\Source\Repos\EUAX\Componente.EUAX\Componente.EUAX.Acao\obj\Debug\net5.0\Componente.EUAX.Acao.csproj.CoreCompileInputs.cache
+C:\Users\Maicon Cardozo\Source\Repos\EUAX\Componente.EUAX\Componente.EUAX.Acao\obj\Debug\net5.0\Componente.EUAX.Acao.csproj.CopyComplete
+C:\Users\Maicon Cardozo\Source\Repos\EUAX\Componente.EUAX\Componente.EUAX.Acao\obj\Debug\net5.0\Componente.EUAX.Acao.dll
+C:\Users\Maicon Cardozo\Source\Repos\EUAX\Componente.EUAX\Componente.EUAX.Acao\obj\Debug\net5.0\ref\Componente.EUAX.Acao.dll
+C:\Users\Maicon Cardozo\Source\Repos\EUAX\Componente.EUAX\Componente.EUAX.Acao\obj\Debug\net5.0\Componente.EUAX.Acao.pdb

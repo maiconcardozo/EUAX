@@ -7609,11 +7609,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Maicon Cardozo\\Source\\Repos\\EUAX\\Componente.EUAX\\Componente.EUAX.Teste\\Componente.EUAX.Teste.csproj",
+      "projectUniqueName": "C:\\Users\\Maicon Cardozo\\source\\repos\\EUAX\\Componente.EUAX\\Componente.EUAX.Teste\\Componente.EUAX.Teste.csproj",
       "projectName": "Componente.EUAX.Teste",
-      "projectPath": "C:\\Users\\Maicon Cardozo\\Source\\Repos\\EUAX\\Componente.EUAX\\Componente.EUAX.Teste\\Componente.EUAX.Teste.csproj",
+      "projectPath": "C:\\Users\\Maicon Cardozo\\source\\repos\\EUAX\\Componente.EUAX\\Componente.EUAX.Teste\\Componente.EUAX.Teste.csproj",
       "packagesPath": "C:\\Users\\Maicon Cardozo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Maicon Cardozo\\Source\\Repos\\EUAX\\Componente.EUAX\\Componente.EUAX.Teste\\obj\\",
+      "outputPath": "C:\\Users\\Maicon Cardozo\\source\\repos\\EUAX\\Componente.EUAX\\Componente.EUAX.Teste\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -7633,11 +7633,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\Maicon Cardozo\\Source\\Repos\\EUAX\\Componente.EUAX\\Componente.EUAX.Acao\\Componente.EUAX.Acao.csproj": {
-              "projectPath": "C:\\Users\\Maicon Cardozo\\Source\\Repos\\EUAX\\Componente.EUAX\\Componente.EUAX.Acao\\Componente.EUAX.Acao.csproj"
+            "C:\\Users\\Maicon Cardozo\\source\\repos\\EUAX\\Componente.EUAX\\Componente.EUAX.Acao\\Componente.EUAX.Acao.csproj": {
+              "projectPath": "C:\\Users\\Maicon Cardozo\\source\\repos\\EUAX\\Componente.EUAX\\Componente.EUAX.Acao\\Componente.EUAX.Acao.csproj"
             },
-            "C:\\Users\\Maicon Cardozo\\Source\\Repos\\EUAX\\Componente.EUAX\\Componente.EUAX.Entidade\\Componente.EUAX.Entidade.csproj": {
-              "projectPath": "C:\\Users\\Maicon Cardozo\\Source\\Repos\\EUAX\\Componente.EUAX\\Componente.EUAX.Entidade\\Componente.EUAX.Entidade.csproj"
+            "C:\\Users\\Maicon Cardozo\\source\\repos\\EUAX\\Componente.EUAX\\Componente.EUAX.Entidade\\Componente.EUAX.Entidade.csproj": {
+              "projectPath": "C:\\Users\\Maicon Cardozo\\source\\repos\\EUAX\\Componente.EUAX\\Componente.EUAX.Entidade\\Componente.EUAX.Entidade.csproj"
             }
           }
         }
@@ -7704,7 +7704,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100-rc.1.21463.6\\RuntimeIdentifierGraph.json"
       }
     }
   }

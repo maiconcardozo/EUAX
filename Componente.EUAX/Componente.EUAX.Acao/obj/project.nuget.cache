@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qo6ttoclIEWVtJ0UvJPnuhZQACZ5liTFQ+Mz4LXdUmrb3k2YwgZ47cv7aG90TajoG3v0pt8IbLB7I3yuGVxQ+w==",
+  "dgSpecHash": "7wjb/zzF3IxqkZOxG4hfdKfuDvUsoG9FOh/t1YiAMlOxMT5wLq9++mF68ROV/51pf/zvS3K3GjZv88AYRiEWvQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Maicon Cardozo\\Source\\Repos\\EUAX\\Componente.EUAX\\Componente.EUAX.Acao\\Componente.EUAX.Acao.csproj",
+  "projectFilePath": "C:\\Users\\Maicon Cardozo\\source\\repos\\EUAX\\Componente.EUAX\\Componente.EUAX.Acao\\Componente.EUAX.Acao.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Maicon Cardozo\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\Maicon Cardozo\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",

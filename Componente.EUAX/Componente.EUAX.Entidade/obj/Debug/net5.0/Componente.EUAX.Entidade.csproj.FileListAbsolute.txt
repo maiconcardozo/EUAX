@@ -22,3 +22,15 @@ D:\Git\Componente.EUAX\Componente.EUAX.Entidade\obj\Debug\net5.0\Componente.EUAX
 D:\Git\Componente.EUAX\Componente.EUAX.Entidade\obj\Debug\net5.0\Componente.EUAX.Entidade.dll
 D:\Git\Componente.EUAX\Componente.EUAX.Entidade\obj\Debug\net5.0\ref\Componente.EUAX.Entidade.dll
 D:\Git\Componente.EUAX\Componente.EUAX.Entidade\obj\Debug\net5.0\Componente.EUAX.Entidade.pdb
+C:\Users\Maicon Cardozo\Source\Repos\EUAX\Componente.EUAX\Componente.EUAX.Entidade\bin\Debug\net5.0\Componente.EUAX.Entidade.deps.json
+C:\Users\Maicon Cardozo\Source\Repos\EUAX\Componente.EUAX\Componente.EUAX.Entidade\bin\Debug\net5.0\Componente.EUAX.Entidade.dll
+C:\Users\Maicon Cardozo\Source\Repos\EUAX\Componente.EUAX\Componente.EUAX.Entidade\bin\Debug\net5.0\ref\Componente.EUAX.Entidade.dll
+C:\Users\Maicon Cardozo\Source\Repos\EUAX\Componente.EUAX\Componente.EUAX.Entidade\bin\Debug\net5.0\Componente.EUAX.Entidade.pdb
+C:\Users\Maicon Cardozo\Source\Repos\EUAX\Componente.EUAX\Componente.EUAX.Entidade\obj\Debug\net5.0\Componente.EUAX.Entidade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maicon Cardozo\Source\Repos\EUAX\Componente.EUAX\Componente.EUAX.Entidade\obj\Debug\net5.0\Componente.EUAX.Entidade.AssemblyInfoInputs.cache
+C:\Users\Maicon Cardozo\Source\Repos\EUAX\Componente.EUAX\Componente.EUAX.Entidade\obj\Debug\net5.0\Componente.EUAX.Entidade.AssemblyInfo.cs
+C:\Users\Maicon Cardozo\Source\Repos\EUAX\Componente.EUAX\Componente.EUAX.Entidade\obj\Debug\net5.0\Componente.EUAX.Entidade.csproj.CoreCompileInputs.cache
+C:\Users\Maicon Cardozo\Source\Repos\EUAX\Componente.EUAX\Componente.EUAX.Entidade\obj\Debug\net5.0\Componente.EUAX.Entidade.dll
+C:\Users\Maicon Cardozo\Source\Repos\EUAX\Componente.EUAX\Componente.EUAX.Entidade\obj\Debug\net5.0\ref\Componente.EUAX.Entidade.dll
+C:\Users\Maicon Cardozo\Source\Repos\EUAX\Componente.EUAX\Componente.EUAX.Entidade\obj\Debug\net5.0\Componente.EUAX.Entidade.pdb
+C:\Users\Maicon Cardozo\source\repos\EUAX\Componente.EUAX\Componente.EUAX.Entidade\obj\Debug\net5.0\Componente.EUAX.Entidade.csproj.AssemblyReference.cache
